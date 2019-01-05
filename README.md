@@ -1,11 +1,11 @@
-¡ŠT—v  
-Surface‚Ìƒ^ƒCƒvƒJƒo[‚ÉuPrt ScvƒL[‚ÆuInsvƒL[‚ª‚È‚¢‚Ì‚ÅA  
-Arduino‚ÆC#‚Åì‚Á‚Ä‚İ‚Ü‚µ‚½B  
+â– æ¦‚è¦  
+Surfaceã®ã‚¿ã‚¤ãƒ—ã‚«ãƒãƒ¼ã«ã€ŒPrt Scã€ã‚­ãƒ¼ã¨ã€ŒInsã€ã‚­ãƒ¼ãŒãªã„ã®ã§ã€  
+Arduinoã¨C#ã§ä½œã£ã¦ã¿ã¾ã—ãŸã€‚  
   
-¡ƒfƒBƒŒƒNƒgƒŠà–¾  
-ArduinoFAruduino—p‚Ìƒ\[ƒX‚Å‚·B  
-C#FC#—p‚Ìƒ\[ƒX‚Å‚·B(Visual Studio Community 2017)  
+â– ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªèª¬æ˜  
+Arduinoï¼šAruduinoç”¨ã®ã‚½ãƒ¼ã‚¹ã§ã™ã€‚  
+CSharpï¼šC#ç”¨ã®ã‚½ãƒ¼ã‚¹ã§ã™ã€‚(Visual Studio Community 2017)  
   
-¡Arduino—p‚Ì”zü  
-8”Ôƒsƒ“‚Æ9”Ôƒsƒ“‚Éƒ^ƒNƒgƒXƒCƒbƒ`‚ğ‚Â‚È‚¬‚Ü‚·B  
+â– Arduinoç”¨ã®é…ç·š  
+8ç•ªãƒ”ãƒ³ã¨9ç•ªãƒ”ãƒ³ã«ã‚¿ã‚¯ãƒˆã‚¹ã‚¤ãƒƒãƒã‚’ã¤ãªãã¾ã™ã€‚  
 ![connection](https://user-images.githubusercontent.com/46277099/50578072-bf023200-0e77-11e9-9ea4-d82e19ae9083.jpg)
